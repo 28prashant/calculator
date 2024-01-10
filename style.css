@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20231019/pngtree-morning-office-work-laptop-calculator-and-stationery-on-a-textured-blue-image_13643059.png) no-repeat;
+    background-size: cover;
+  }
+
+  #calculator {
+    text-align: center;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+
+  input {
+    padding: 10px;
+    margin: 20px;
+    background-color: white;
+
+
+  }
+
+  button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
